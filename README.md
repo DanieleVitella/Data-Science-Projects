@@ -1,5 +1,5 @@
 # Data-Science-Projects
-List of my data science projects, to show the skills acquired through obtaining Professional Certificates such as **Google Data Analytics** and **Google Advanced Data Analytics**.
+List of my data science projects, to show the skills acquired through obtaining **Google Advanced Data Analytics Professional Certificate**.
 
 **Skills**: Data Cleaning, EDA, Python, Tableau, Data Visualization, Machine Learning and Statistics.
 
