@@ -7,3 +7,4 @@ List of my data science projects, to show the skills acquired through obtaining 
 - [TikTok Claim Classification](https://github.com/DanieleVitella/TikTok-Claims-Classification)
 - [A/B Testing: New York City Taxi Limousine Commission](https://github.com/DanieleVitella/A-B-Testing-New-York-City-Taxi-Limousine-Commission)
 - [Customer Segmentation Analysis with K-Means and DBSCAN](https://github.com/DanieleVitella/Customer-Segmentation-Analysis-with-K-Means-and-DBSCAN)
+- [Customer Satisfaction Analysis NLTK - NLP](https://github.com/DanieleVitella/Customer-Satisfaction-Analysis-NLP---NLTK/blob/main/Customer%20Satisfaction%20Analysis%20NLP%20-%20NLTK.ipynb)
