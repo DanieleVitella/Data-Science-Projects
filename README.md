@@ -9,3 +9,4 @@ List of my data science projects, to show the skills acquired through obtaining 
 - [A/B Testing: New York City Taxi Limousine Commission](https://github.com/DanieleVitella/A-B-Testing-New-York-City-Taxi-Limousine-Commission)
 - [Customer Segmentation Analysis with K-Means and DBSCAN](https://github.com/DanieleVitella/Customer-Segmentation-Analysis-with-K-Means-and-DBSCAN)
 - [Customer Satisfaction Analysis NLTK - NLP](https://github.com/DanieleVitella/Customer-Satisfaction-Analysis-NLP---NLTK/blob/main/Customer%20Satisfaction%20Analysis%20NLP%20-%20NLTK.ipynb)
+- [Product Recommender System: OpenAI Text Embedding](https://github.com/DanieleVitella/Product-Recommender-System-OpenAI-Text-Embedding/blob/main/Product_Recommender_System_OpenAI_Text_Embedding.ipynb)
